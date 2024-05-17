@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://chinaman9527.netlify.app/sitemap.xml
+Sitemap: /sitemap.xml
